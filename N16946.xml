@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021826_0000_0FB5BC48329C2570"/>
-            <pb facs="tcp:021826_0001_0FB5BC492EC0C3E8"/>
+            <pb facs="unknown:021826_0000_0FB5BC48329C2570"/>
+            <pb facs="unknown:021826_0001_0FB5BC492EC0C3E8"/>
             <p>THE BEAUTIES OF RELIGION. A POEM. Addreſſed to YOUTH. In FIVE BOOKS.</p>
             <p>By <hi>ELIJAH FITCH,</hi> A. M.</p>
             <q>
@@ -135,7 +135,7 @@
                <hi>PROVIDENCE:</hi> Printed by JOHN CARTER. M,DCC,LXXXIX.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:021826_0002_0FB5BC4BF00BED40"/>
+            <pb facs="unknown:021826_0002_0FB5BC4BF00BED40"/>
             <head>ADVERTISEMENT.</head>
             <p>
                <hi>SOME apology ſeems due to the ſubſcribers for and patrons of this Poem, on account of the publication having been delayed till this time. The long indiſpoſition of the author, which terminated in his death, it is hoped will ſuffi<g ref="char:EOLhyphen"/>ciently apologize for the delay. Had his life been prolonged, and health permitted, his intention was to have made ſome alterations and corrections; but the work is now handed to the world in the manner he left it, purſuant to his requeſt.</hi>
@@ -158,7 +158,7 @@
             </closer>
          </div>
          <div type="dedication">
-            <pb facs="tcp:021826_0003_0FB5BC4CE6AD6DA0"/>
+            <pb facs="unknown:021826_0003_0FB5BC4CE6AD6DA0"/>
             <p>To the Reverend EZRA STILES, D.D. L.L.D. Preſident of YALE COLLEGE, and Pro<g ref="char:EOLhyphen"/>feſſor of Eccleſiaſtical Hiſtory, This POEM, with due Reſpect, is humbly inſcribed,</p>
             <closer>
                <signed> by The AUTHOR.</signed> 
@@ -178,14 +178,14 @@
       </front>
       <body>
          <div type="argument">
-            <pb facs="tcp:021826_0004_0FB5BC4FACE9C5B0"/>
+            <pb facs="unknown:021826_0004_0FB5BC4FACE9C5B0"/>
             <head>THE ARGUMENT.</head>
             <p>
                <hi>The ſubject propoſed. Religion preferred to all others. A ſearch for it through the kingdoms of the world. Where found. Proved to be excellent from its origin and deſign. Shews how to obtain the happineſs of the world. The folly of making this world our</hi> all, <hi>exemplified by the ſtory of the fool in the goſpel. God the only ſatisfying portion of the ſoul; made to be happy no where elſe but in God. Story of Avidus and Palmura. Alexander and Diogenes. The world's vanity. The world's goodneſs. Story of Amindon and Amelia. Directions how to make both worlds our own. Cloſes with an addreſs to youth.</hi>
             </p>
          </div>
          <div n="1" type="book">
-            <pb facs="tcp:021826_0005_0FB5BC511529D8C0"/>
+            <pb facs="unknown:021826_0005_0FB5BC511529D8C0"/>
             <head>The BEAUTIES of RELIGION. BOOK I.</head>
             <lg>
                <l>LET others ſing of heroes, and their feats;</l>
@@ -227,7 +227,7 @@
                <l>How then "ſhall <hi>mortal tongue</hi> preſume to ſing,"</l>
                <l>And touch a theme ſo high, that angels fail!</l>
                <l>
-                  <pb n="6" facs="tcp:021826_0006_0FB5BC55773FAD40"/>
+                  <pb n="6" facs="unknown:021826_0006_0FB5BC55773FAD40"/>
 Divine, effulgent, glory's beauteous form</l>
                <l>In earthly ſtrains to ſing! <hi>Oh vain attempt!</hi>
                </l>
@@ -276,7 +276,7 @@ Divine, effulgent, glory's beauteous form</l>
                <l>But where is found this Goddeſs to inſpire?</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:021826_0007_0FB5BC5CC96EEEA8"/>
+               <pb n="7" facs="unknown:021826_0007_0FB5BC5CC96EEEA8"/>
                <l>In Heav'n ſhe reigns triumphant, fills her wide</l>
                <l>Dominions with eternal joy; on earth</l>
                <l>She has a manſion too; but who can tell</l>
@@ -325,7 +325,7 @@ Divine, effulgent, glory's beauteous form</l>
                <l>Not garments roll'd in blood; <hi>her emblem's peace.</hi>
                </l>
                <l>
-                  <pb n="8" facs="tcp:021826_0008_0FB5BC5E4196AD60"/>
+                  <pb n="8" facs="unknown:021826_0008_0FB5BC5E4196AD60"/>
 High o'er their heads ſhe ſits, with pity weeps;</l>
                <l>Whilſt alcorans and ſonnites fierce engage,</l>
                <l>Defend her majeſty's renown to blood.</l>
@@ -373,7 +373,7 @@ High o'er their heads ſhe ſits, with pity weeps;</l>
                <l>To take her dwelling with the ſons of men,</l>
                <l>By Iſrael's King was offer'd to his God;</l>
                <l>
-                  <pb n="9" facs="tcp:021826_0009_0FB5BC5FA22AB828"/>
+                  <pb n="9" facs="unknown:021826_0009_0FB5BC5FA22AB828"/>
 (For then ev'n kings were not aſham'd to pray)</l>
                <l>Her preſence the chief glory of that fane,</l>
                <l>Whoſe outward form ſo bright, ſtruck Sheba's queen</l>
@@ -427,7 +427,7 @@ High o'er their heads ſhe ſits, with pity weeps;</l>
                </l>
                <l>Empreſs of living temples now ſhe reigns.</l>
                <l>
-                  <pb n="10" facs="tcp:021826_0010_0FB5BC67514478A0"/>
+                  <pb n="10" facs="unknown:021826_0010_0FB5BC67514478A0"/>
 Hence this high title to the pure belongs,</l>
                <l>Ye are the <hi>temples of the Holy Ghoſt.</hi>
                </l>
@@ -476,7 +476,7 @@ Hence this high title to the pure belongs,</l>
                <l>May be waſh'd out, made clean and whiter far</l>
                <l>That new-fall'n ſnow, holy and pure like God,</l>
                <l>
-                  <pb n="11" facs="tcp:021826_0011_0FB5BC68A71AD958"/>
+                  <pb n="11" facs="unknown:021826_0011_0FB5BC68A71AD958"/>
 Fit to inhabit climes where angels dwell,</l>
                <l>On ſpicy mountains in Jehovah's realms,</l>
                <l>And walk the cryſtal, golden ſtreets of Heaven;</l>
@@ -535,7 +535,7 @@ Fit to inhabit climes where angels dwell,</l>
                <l>One ſtep may drop them, never more to riſe!</l>
                <l>And not a day, hour, minute, but <hi>ſome</hi> go;</l>
                <l>
-                  <pb n="12" facs="tcp:021826_0012_0FB5BC6A2E9B4A28"/>
+                  <pb n="12" facs="unknown:021826_0012_0FB5BC6A2E9B4A28"/>
 And <hi>all</hi> muſt follow to the dark, damp vault;</l>
                <l>Soon ſhut your eyes on all things here below.</l>
                <l>Earth's gewgaws then how glittering in your view!</l>
@@ -587,7 +587,7 @@ And <hi>all</hi> muſt follow to the dark, damp vault;</l>
                </l>
                <l>How happy he whoſe higheſt wiſh's obtain'd!</l>
                <l>
-                  <pb n="13" facs="tcp:021826_0013_0FB5BC6BA3169AE0"/>
+                  <pb n="13" facs="unknown:021826_0013_0FB5BC6BA3169AE0"/>
 Whoſe heart tranſported views his golden ſtore!</l>
                <l>Exulting in his plenty, thinks of mirth!</l>
                <l>And crowns his table with delicious fare!</l>
@@ -640,7 +640,7 @@ Whoſe heart tranſported views his golden ſtore!</l>
                <l>Into a bed of flames! Oh horrible!</l>
                <l>Muſt ſoul and body part! aſunder torn!</l>
                <l>
-                  <pb n="14" facs="tcp:021826_0014_0FB5BC776779ED30"/>
+                  <pb n="14" facs="unknown:021826_0014_0FB5BC776779ED30"/>
 Parted from all things lov'd! and go reluctant</l>
                <l>Down! Oh where!—a dreadful plunge!</l>
             </lg>
@@ -688,7 +688,7 @@ Parted from all things lov'd! and go reluctant</l>
                <l>Their noble aims, their noble birth declare:</l>
                <l>" My ſons and daughters theſe, yea kings and prieſts,</l>
                <l>
-                  <pb n="15" facs="tcp:021826_0015_0FB5BC792DE8E248"/>
+                  <pb n="15" facs="unknown:021826_0015_0FB5BC792DE8E248"/>
 " Heirs to myſelf, joint heirs with Chriſt to all</l>
                <l>" The ſhining glories of the heavenly world."</l>
             </lg>
@@ -734,7 +734,7 @@ Parted from all things lov'd! and go reluctant</l>
                <l>Avidus left alone, conſoles himſelf</l>
                <l>That all is now his own, no one to ſhare</l>
                <l>
-                  <pb n="16" facs="tcp:021826_0016_0FB5BC7BE3BD5A60"/>
+                  <pb n="16" facs="unknown:021826_0016_0FB5BC7BE3BD5A60"/>
 In the poſſeſſion of his golden ſtore;</l>
                <l>Not long enjoy'd.—Death comes, and bids the miſer</l>
                <l>Prepare to go where riches profit not.</l>
@@ -779,7 +779,7 @@ In the poſſeſſion of his golden ſtore;</l>
                <l>Earth's treaſures empty more than <hi>fill</hi> the ſoul</l>
                <l>Mark this, ye ſtaunch purſuers of the world,</l>
                <l>
-                  <pb n="17" facs="tcp:021826_0017_0FB5BC7CE9731D50"/>
+                  <pb n="17" facs="unknown:021826_0017_0FB5BC7CE9731D50"/>
 Learn hence a leſſon that will do you good:</l>
                <l>Minds full of earth, are <hi>full</hi> of <hi>emptineſs:</hi>
                </l>
@@ -828,7 +828,7 @@ Learn hence a leſſon that will do you good:</l>
                <l>Sit <hi>down and weep</hi> becauſe no more appear'd.</l>
             </lg>
             <lg>
-               <pb n="18" facs="tcp:021826_0018_0FB5BC7FF0AECC90"/>
+               <pb n="18" facs="unknown:021826_0018_0FB5BC7FF0AECC90"/>
                <l>When Alexander conquer'd all the world,</l>
                <l>Spur'd by a curious and uneaſy mind,</l>
                <l>Diogenes, philoſopher renown'd</l>
@@ -882,7 +882,7 @@ Learn hence a leſſon that will do you good:</l>
                </l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:021826_0019_0FB5BC87EDAF01E0"/>
+               <pb n="19" facs="unknown:021826_0019_0FB5BC87EDAF01E0"/>
                <l>All happineſs from thoughts within proceeds:</l>
                <l>All glory's inward; outward tinſel glare:</l>
                <l>All greatneſs is internal, the mind's the man:</l>
@@ -924,7 +924,7 @@ Learn hence a leſſon that will do you good:</l>
                <l>That <hi>charm of charms!</hi> for beauty, fortuneleſs,</l>
                <l>May <hi>lie</hi> and <hi>ruſt</hi> unnoticed by the world:</l>
                <l>
-                  <pb n="20" facs="tcp:021826_0020_0FB5BC8B0ACA11D8"/>
+                  <pb n="20" facs="unknown:021826_0020_0FB5BC8B0ACA11D8"/>
 The ſparkling eyes, the ruby lips and cheeks</l>
                <l>Which glow vermilion, ſeparate from wealth,</l>
                <l>Sparkle and bloom in vain, ſcarce gain a look.</l>
@@ -981,7 +981,7 @@ The ſparkling eyes, the ruby lips and cheeks</l>
                <l>And praiſed her beauty in Amelia's ear;</l>
                <l>Her ſoul was now on flame, ſhe vows revenge,</l>
                <l>
-                  <pb n="21" facs="tcp:021826_0021_0FB5BC8BE83F2D48"/>
+                  <pb n="21" facs="unknown:021826_0021_0FB5BC8BE83F2D48"/>
 And ſets her head, her heart and <hi>tongue,</hi> to work,</l>
                <l>And all to pain Amindon to the heart;</l>
                <l>Her purpoſe ſhe effects, and hatred reigns</l>
@@ -1031,7 +1031,7 @@ And ſets her head, her heart and <hi>tongue,</hi> to work,</l>
                <l>And fault'ring voice, theſe queſtions ſoft I moved:</l>
                <l>Is <hi>this</hi> Religion, to deſpiſe the world,</l>
                <l>
-                  <pb n="22" facs="tcp:021826_0022_0FB5BC8E257245F0"/>
+                  <pb n="22" facs="unknown:021826_0022_0FB5BC8E257245F0"/>
 And ſet at <hi>nought</hi> thoſe things which God calls good?</l>
                <l>Is it Religion lightly to eſteem</l>
                <l>Heaven's kindeſt bounties and his richeſt gifts?</l>
@@ -1084,7 +1084,7 @@ And ſet at <hi>nought</hi> thoſe things which God calls good?</l>
                </l>
                <l>Nay more in others welfare, as his own,</l>
                <l>
-                  <pb n="23" facs="tcp:021826_0023_0FB5BC8FA4CCE218"/>
+                  <pb n="23" facs="unknown:021826_0023_0FB5BC8FA4CCE218"/>
 Joying; partakes the happineſs of <hi>all:</hi>
                </l>
                <l>Thus ſacred truth declares, <hi>"all things are your's,"</hi>
@@ -1139,7 +1139,7 @@ Joying; partakes the happineſs of <hi>all:</hi>
                <l>O faireſt, kindeſt, beſt! how vain is man!</l>
                <l>Shall man in darkneſs walk, nor ſee the light!</l>
                <l>
-                  <pb n="24" facs="tcp:021826_0024_0FB5BC92A190E158"/>
+                  <pb n="24" facs="unknown:021826_0024_0FB5BC92A190E158"/>
 Bewilder'd in a maze, <hi>ſhadows purſue!</hi>
                </l>
                <l>
@@ -1193,7 +1193,7 @@ Bewilder'd in a maze, <hi>ſhadows purſue!</hi>
                <l>Religion, virtue always near akin,</l>
                <l>To reaſon ſhining with her brighteſt beams,</l>
                <l>
-                  <pb n="25" facs="tcp:021826_0025_0FB5BC98BAFD7C78"/>
+                  <pb n="25" facs="unknown:021826_0025_0FB5BC98BAFD7C78"/>
 Reaſon is elder ſiſter to fair virtue;</l>
                <l>Theſe ſiſters kind alternately embrace,</l>
                <l>Support each other, ſingly cannot live.</l>
@@ -1247,7 +1247,7 @@ Reaſon is elder ſiſter to fair virtue;</l>
                </l>
                <l>To look for <hi>more,</hi> on this terraqueous globe,</l>
                <l>
-                  <pb n="26" facs="tcp:021826_0026_0FB5BC9CE38070A0"/>
+                  <pb n="26" facs="unknown:021826_0026_0FB5BC9CE38070A0"/>
 Is ſeeking that which never can be found.</l>
                <l>None ever yet obtain'd the good he ſought;</l>
                <l>Aſk Caeſars, Alexanders of the world.—</l>
@@ -1298,7 +1298,7 @@ Is ſeeking that which never can be found.</l>
                <l>Plants of renown in Paradiſe of God,</l>
                <l>Where pleaſure's placid ſtreams thro' golden meads,</l>
                <l>
-                  <pb n="27" facs="tcp:021826_0027_0FB5BCA0190EA470"/>
+                  <pb n="27" facs="unknown:021826_0027_0FB5BCA0190EA470"/>
 Enamel'd o'er with flowers of Paradiſe,</l>
                <l>Glide gently thro' her aromatic groves,</l>
                <l>Of loftier growth and richer fragrance far</l>
@@ -1342,7 +1342,7 @@ Enamel'd o'er with flowers of Paradiſe,</l>
                <l>Himſelf at eaſe, nor wants thoſe toys</l>
                <l>Which little minds call great;</l>
                <l>
-                  <pb n="28" facs="tcp:021826_0028_0FB5BCA0E3943B08"/>
+                  <pb n="28" facs="unknown:021826_0028_0FB5BCA0E3943B08"/>
 Crowns, riches, honours and ſuch things,</l>
                <l>Which pleaſe the vulgar, yea and kings,</l>
                <l>He treads beneath his feet.</l>
@@ -1365,7 +1365,7 @@ Crowns, riches, honours and ſuch things,</l>
             </lg>
          </div>
          <div type="half_title">
-            <pb facs="tcp:021826_0029_0FB5BCA6F82C2468"/>
+            <pb facs="unknown:021826_0029_0FB5BCA6F82C2468"/>
             <p>The BEAUTIES of RELIGION. BOOK II.</p>
             <lg>
                <l>
@@ -1384,7 +1384,7 @@ Crowns, riches, honours and ſuch things,</l>
             <bibl>YOUNG.</bibl>
          </div>
          <div n="2" type="book">
-            <pb facs="tcp:021826_0030_0FB5BCA864D9AB88"/>
+            <pb facs="unknown:021826_0030_0FB5BCA864D9AB88"/>
             <argument>
                <head>THE ARGUMENT.</head>
                <p>
@@ -1392,7 +1392,7 @@ Crowns, riches, honours and ſuch things,</l>
                </p>
             </argument>
             <head>
-               <pb facs="tcp:021826_0031_0FB5BCA9E21D0C28"/>
+               <pb facs="unknown:021826_0031_0FB5BCA9E21D0C28"/>
 The BEAUTIES OF RELIGION. BOOK II.</head>
             <lg>
                <l>SEQUESTER'D from the world, beneath a ſhade</l>
@@ -1433,7 +1433,7 @@ The BEAUTIES OF RELIGION. BOOK II.</head>
                <l>Then to this fair Celeſtial I addreſs'd:</l>
                <l>O heav'nly Fair! reveal thy beauteous charms;</l>
                <l>
-                  <pb n="32" facs="tcp:021826_0032_0FB5BCB0665E1138"/>
+                  <pb n="32" facs="unknown:021826_0032_0FB5BCB0665E1138"/>
 The cauſe of <hi>hate</hi> to thy fair form unfold;</l>
                <l>Let truths divine ſhine bright in <hi>reaſon's eye,</hi>
                </l>
@@ -1488,7 +1488,7 @@ The cauſe of <hi>hate</hi> to thy fair form unfold;</l>
                </l>
                <l>When ye behold an injured God in Heaven,</l>
                <l>
-                  <pb n="33" facs="tcp:021826_0033_0FB5BCB2EA6ADB30"/>
+                  <pb n="33" facs="unknown:021826_0033_0FB5BCB2EA6ADB30"/>
 In pity clad, his boſom fill'd with love,</l>
                <l>And bowels, yearning for the race of man,</l>
                <l>And mercy's arms extending wide t' embrace,</l>
@@ -1540,7 +1540,7 @@ In pity clad, his boſom fill'd with love,</l>
                <l>What rapturous joy ſhould ſeize each conſcious breaſt!</l>
                <l>With what extatic pleaſure, heartfelt bliſs,</l>
                <l>
-                  <pb n="34" facs="tcp:021826_0034_0FB5BCB46989F110"/>
+                  <pb n="34" facs="unknown:021826_0034_0FB5BCB46989F110"/>
 Should our ears liſten to the pleaſing voice</l>
                <l>Of our enthron'd Redeemer, <hi>bleeding God!</hi>
                </l>
@@ -1596,7 +1596,7 @@ Should our ears liſten to the pleaſing voice</l>
                <l>Diſplay'd her glowing charms of roſy hues,</l>
                <l>Divinely beauteous: a lucid glory, like</l>
                <l>
-                  <pb n="35" facs="tcp:021826_0035_0FB5BCBEB958C558"/>
+                  <pb n="35" facs="unknown:021826_0035_0FB5BCBEB958C558"/>
 The bow that gilds the eaſtern azure ſky,</l>
                <l>When pearly drops reflect the golden beams</l>
                <l>Of ſitting ſun, and paint the lively hues</l>
@@ -1632,7 +1632,7 @@ The bow that gilds the eaſtern azure ſky,</l>
                <l>Charms with her luſtre; graces with her grace;</l>
                <l>Diffuſive throws her bounty all around.</l>
                <l>
-                  <pb n="36" facs="tcp:021826_0036_0FB5BCC0680B9640"/>
+                  <pb n="36" facs="unknown:021826_0036_0FB5BCC0680B9640"/>
 Next Euphroſine, charming as the light,</l>
                <l>And joyous as the riſing dawn of day,</l>
                <l>With ſolid, laſting joys repletes the breaſt,</l>
@@ -1683,7 +1683,7 @@ Next Euphroſine, charming as the light,</l>
                <l>Of unremitting pleaſures, without end.</l>
             </lg>
             <lg>
-               <pb n="37" facs="tcp:021826_0037_0FB5BCC1E5A31608"/>
+               <pb n="37" facs="unknown:021826_0037_0FB5BCC1E5A31608"/>
                <l>Here pauſed the Goddeſs.—My full heart exclaim'd.</l>
                <l>Columbian youth, for you my boſom glows</l>
                <l>With love and warm deſire, to lead you on,</l>
@@ -1738,7 +1738,7 @@ Next Euphroſine, charming as the light,</l>
                <l>In ivory palaces, <hi>where angels feaſt.</hi>
                </l>
                <l>
-                  <pb n="38" facs="tcp:021826_0038_0FB5BCC4EDC846A0"/>
+                  <pb n="38" facs="unknown:021826_0038_0FB5BCC4EDC846A0"/>
 What mortal can reſiſt who pleaſure loves!</l>
                <l>Whom riches charm! or glory can inſpire!</l>
                <l>'Tis glory, honour, riches, pleaſure, call!</l>
@@ -1791,7 +1791,7 @@ What mortal can reſiſt who pleaſure loves!</l>
                <l>How wretched! how forlorn! O worſe than vain!</l>
             </lg>
             <lg>
-               <pb n="39" facs="tcp:021826_0039_0FB5BCC662EB0A88"/>
+               <pb n="39" facs="unknown:021826_0039_0FB5BCC662EB0A88"/>
                <l>With looks of pity, kindly ſhe reply'd,</l>
                <l>Man's folly only makes his end forlorn:</l>
                <l>Religion marks a <hi>ſafe,</hi> a <hi>ſhining path,</hi>
@@ -1850,7 +1850,7 @@ What mortal can reſiſt who pleaſure loves!</l>
                <l>For no decrees neceſſitate the will.</l>
                <l>This the criterion fix'd by Heaven's high King:</l>
                <l>
-                  <pb n="40" facs="tcp:021826_0040_0FB5BCCBEF2D9748"/>
+                  <pb n="40" facs="unknown:021826_0040_0FB5BCCBEF2D9748"/>
                   <hi>All rationals are free, will their own fate:</hi>
                </l>
                <l>Hence not neceſſity (whate'er pretence)</l>
@@ -1908,7 +1908,7 @@ What mortal can reſiſt who pleaſure loves!</l>
                   <hi>Religion only</hi> can effect the cure.</l>
             </lg>
             <lg>
-               <pb n="41" facs="tcp:021826_0041_0FB5BCCF239FA100"/>
+               <pb n="41" facs="unknown:021826_0041_0FB5BCCF239FA100"/>
                <l>Strange is their peace! their pleaſure ſtranger ſtill,</l>
                <l>Whoſe joy ariſes from a ſtupid mind:</l>
                <l>The leaſt reflection <hi>ſtings that joy to death;</hi>
@@ -1959,7 +1959,7 @@ What mortal can reſiſt who pleaſure loves!</l>
                <l>With ſuch exultance as words can't expreſs;</l>
                <l>Within his placid breaſt, an heart-felt joy</l>
                <l>
-                  <pb n="42" facs="tcp:021826_0042_0FB5BCD0379B65B8"/>
+                  <pb n="42" facs="unknown:021826_0042_0FB5BCD0379B65B8"/>
 Awakes, in God rejoices, hath ſuch joys,</l>
                <l>With which a ſtranger intermeddleth not;</l>
                <l>Sure earneſt of complete eternal joys,</l>
@@ -2004,7 +2004,7 @@ Awakes, in God rejoices, hath ſuch joys,</l>
                <l>With reaſon juſt the ſame may we aſſert,</l>
                <l>That the bright rays of the meridian ſun</l>
                <l>
-                  <pb n="43" facs="tcp:021826_0043_0FB5BCD300EA2D38"/>
+                  <pb n="43" facs="unknown:021826_0043_0FB5BCD300EA2D38"/>
 In pitchy darkneſs all the world involve,</l>
                <l>When midnight gloom o'erſpreads the darken'd earth,</l>
                <l>As that Religion, ſhining in the ſoul,</l>
@@ -2052,7 +2052,7 @@ In pitchy darkneſs all the world involve,</l>
                <l>Cures mortal wounds, and ſets all right within,</l>
                <l>Gives health and beauty, perfect ſymmetry;</l>
                <l>
-                  <pb n="44" facs="tcp:021826_0044_0FB5BCD755BB6290"/>
+                  <pb n="44" facs="unknown:021826_0044_0FB5BCD755BB6290"/>
 It is Religion that ennobles ſouls,</l>
                <l>Fills them with thoughts ſublime, angelic joys,</l>
                <l>Angelic ſplendours; <hi>more,</hi> expands, elates,</l>
@@ -2103,7 +2103,7 @@ It is Religion that ennobles ſouls,</l>
                <l>Deck their victorious brows, and palms their hands.</l>
                <l>One 'midſt the happy, glorious throng he makes,</l>
                <l>
-                  <pb n="45" facs="tcp:021826_0045_0FB5BCD9A498A318"/>
+                  <pb n="45" facs="unknown:021826_0045_0FB5BCD9A498A318"/>
 And tunes his lyre in ſymphony, to ſing</l>
                <l>Loud anthems to th' immortal King, who ſits</l>
                <l>Enthroned in Heav'n; to whom high ſwelling notes</l>
@@ -2148,7 +2148,7 @@ And tunes his lyre in ſymphony, to ſing</l>
                <l>And glory of the Lord, forever ſhine.</l>
                <l>See there the gilded throne of the Eternal.</l>
                <l>
-                  <pb n="46" facs="tcp:021826_0046_0FB5BCDB06EACC38"/>
+                  <pb n="46" facs="unknown:021826_0046_0FB5BCDB06EACC38"/>
 So ſplendid, ſo ſuperb, deſcription fails:—</l>
                <l>But from whoſe foot rivers of pleaſure flow,</l>
                <l>As cryſtal clear, meand'ring as they paſs</l>
@@ -2192,7 +2192,7 @@ So ſplendid, ſo ſuperb, deſcription fails:—</l>
                <l>The only road where pleaſure may be found;</l>
                <l>To ſlight, contemn, and <hi>more,</hi> e'en curſe Religion,</l>
                <l>
-                  <pb n="47" facs="tcp:021826_0047_0FB5BCE08616E238"/>
+                  <pb n="47" facs="unknown:021826_0047_0FB5BCE08616E238"/>
 Whoſe ſmiling aſpect favours either world,</l>
                <l>Makes this life pleaſant, thro' a glorious hope,</l>
                <l>The New Jeruſalem's our home forever;</l>
@@ -2241,7 +2241,7 @@ Whoſe ſmiling aſpect favours either world,</l>
                <l>Sweet incenſe to that God who rules the world;</l>
                <l>Whoſe ſmiles bleſs'd all the labours of their hands,</l>
                <l>
-                  <pb n="48" facs="tcp:021826_0048_0FB5BCE2283388D0"/>
+                  <pb n="48" facs="unknown:021826_0048_0FB5BCE2283388D0"/>
 Whoſe guardian angels round their bed encampt;</l>
                <l>With joy they always view'd the riſing morn,</l>
                <l>And in the fountain of all life rejoiced.</l>
@@ -2285,7 +2285,7 @@ Whoſe guardian angels round their bed encampt;</l>
                <l>To God committed both themſelves and cares,</l>
                <l>Into his boſom all their ſorrows pour'd;</l>
                <l>
-                  <pb n="49" facs="tcp:021826_0049_0FB5BCE46A68C020"/>
+                  <pb n="49" facs="unknown:021826_0049_0FB5BCE46A68C020"/>
                   <hi>Leaning on Heaven,</hi> they found moſt ſweet repoſe,</l>
                <l>And thus they chear'd each other in diſtreſs.</l>
             </lg>
@@ -2336,7 +2336,7 @@ Whoſe guardian angels round their bed encampt;</l>
                <l>Whoſe bliſs begun, ſhall never know an end.</l>
             </lg>
             <lg>
-               <pb n="50" facs="tcp:021826_0050_0FB5BCE734F53488"/>
+               <pb n="50" facs="unknown:021826_0050_0FB5BCE734F53488"/>
                <l>Drop now thy pen, for words cannot expreſs,</l>
                <l>Thoughts cannot reach, <hi>ſo great the joy!</hi>
                </l>
@@ -2395,7 +2395,7 @@ Whoſe guardian angels round their bed encampt;</l>
                </l>
             </lg>
             <lg>
-               <pb n="51" facs="tcp:021826_0051_0FB5BCE8275C3BA0"/>
+               <pb n="51" facs="unknown:021826_0051_0FB5BCE8275C3BA0"/>
                <l>Exults in darkneſs, while he hates the light,</l>
                <l>Self-blinded, ſelf-deceived, loves ways of death.</l>
             </lg>
@@ -2441,7 +2441,7 @@ Whoſe guardian angels round their bed encampt;</l>
                <l>Outweigh that far more great, exceeding</l>
                <l>Eternal weight of glory, that's reſerved,</l>
                <l>
-                  <pb n="52" facs="tcp:021826_0052_0FB5BCF192812EC0"/>
+                  <pb n="52" facs="unknown:021826_0052_0FB5BCF192812EC0"/>
 In Heav'n's ſublime abodes, manſions of bliſs,</l>
                <l>For all who tread the pleaſant paths of virtue?</l>
             </lg>
@@ -2496,7 +2496,7 @@ In Heav'n's ſublime abodes, manſions of bliſs,</l>
             </lg>
          </div>
          <div type="half_title">
-            <pb facs="tcp:021826_0053_0FB5BCF369A41090"/>
+            <pb facs="unknown:021826_0053_0FB5BCF369A41090"/>
             <p>The BEAUTIES of RELIGION. BOOK III.</p>
             <lg>
                <l>
@@ -2515,7 +2515,7 @@ In Heav'n's ſublime abodes, manſions of bliſs,</l>
             <bibl>YOUNG.</bibl>
          </div>
          <div n="3" type="book">
-            <pb facs="tcp:021826_0054_0FB5BCF4E249D118"/>
+            <pb facs="unknown:021826_0054_0FB5BCF4E249D118"/>
             <argument>
                <head>THE ARGUMENT.</head>
                <p>
@@ -2523,7 +2523,7 @@ In Heav'n's ſublime abodes, manſions of bliſs,</l>
                </p>
             </argument>
             <head>
-               <pb facs="tcp:021826_0055_0FB5BCFA4E2AFFB8"/>
+               <pb facs="unknown:021826_0055_0FB5BCFA4E2AFFB8"/>
 The BEAUTIES of RELIGION. BOOK III.</head>
             <lg>
                <l>ONCE more the Goddeſs from her ſhining throne,</l>
@@ -2562,7 +2562,7 @@ The BEAUTIES of RELIGION. BOOK III.</head>
                <l>In thoſe high realms, where none oppoſe my reign.</l>
             </lg>
             <lg>
-               <pb n="56" facs="tcp:021826_0056_0FB5BCFE1F84AE08"/>
+               <pb n="56" facs="unknown:021826_0056_0FB5BCFE1F84AE08"/>
                <l>In Heaven's divine abodes, the ſhining throng,</l>
                <l>In peaceful harmony, who live and ſing</l>
                <l>Perpetual hallelujahs to their God,</l>
@@ -2610,7 +2610,7 @@ The BEAUTIES of RELIGION. BOOK III.</head>
                <l>Then thouſand ages, <hi>to a moment ſhrink:</hi>
                </l>
                <l>
-                  <pb n="57" facs="tcp:021826_0057_0FB5BCFF622B0260"/>
+                  <pb n="57" facs="unknown:021826_0057_0FB5BCFF622B0260"/>
 For as they are, <hi>all things by God are ſeen:</hi>
                </l>
                <l>A moment, then, <hi>compriſeth longeſt time.</hi>
@@ -2669,7 +2669,7 @@ For as they are, <hi>all things by God are ſeen:</hi>
                <l>All happineſs upon compliance waits.</l>
             </lg>
             <lg>
-               <pb n="58" facs="tcp:021826_0058_0FB5BD0132CFD7D0"/>
+               <pb n="58" facs="unknown:021826_0058_0FB5BD0132CFD7D0"/>
                <l>If unoppoſed her placi<gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
                   </gap> reign on earth,</l>
@@ -2718,7 +2718,7 @@ For as they are, <hi>all things by God are ſeen:</hi>
                <l>The ſafety, welfare, happineſs of man.</l>
                <l>To look no further than the preſent ſtate,</l>
                <l>
-                  <pb n="59" facs="tcp:021826_0059_0FB5BD03C2F683B0"/>
+                  <pb n="59" facs="unknown:021826_0059_0FB5BD03C2F683B0"/>
 The miſchief would be great without repair,</l>
                <l>Did all believe, as ſome pretend, and fools</l>
                <l>Have ſaid, that there's no God, Religion none;</l>
@@ -2764,7 +2764,7 @@ The miſchief would be great without repair,</l>
                <l>For ſhe's God's offspring, image of himſelf;</l>
                <l>In her the King of Heaven ſhews his face;</l>
                <l>
-                  <pb n="60" facs="tcp:021826_0060_0FB5BF8D906BC028"/>
+                  <pb n="60" facs="unknown:021826_0060_0FB5BF8D906BC028"/>
 Deſpiſe her beauty, God himſelf's deſpiſed,</l>
                <l>If once Religion could be proved a foe</l>
                <l>Againſt the peace and quiet of the world,</l>
@@ -2811,7 +2811,7 @@ Deſpiſe her beauty, God himſelf's deſpiſed,</l>
                <l>Love is Religion, love to God and man,</l>
                <l>All ſhining virtues grow in this rich foil;</l>
                <l>
-                  <pb n="61" facs="tcp:021826_0061_0FB5BF8F011B1C90"/>
+                  <pb n="61" facs="unknown:021826_0061_0FB5BF8F011B1C90"/>
 And who can ſhine a patriot without love?</l>
                <l>Love then to beings, to promote their good,</l>
                <l>
@@ -2861,7 +2861,7 @@ And who can ſhine a patriot without love?</l>
                <l>The flames of love, through the whole ſoul diffuſed,</l>
                <l>Make patriots ſteady, from their courſe unmoved,</l>
                <l>
-                  <pb n="62" facs="tcp:021826_0062_0FB5BF906DDD0B08"/>
+                  <pb n="62" facs="unknown:021826_0062_0FB5BF906DDD0B08"/>
 With conduct uniform, to bleſs mankind,</l>
                <l>Expecting nothing from the world they ſerve,</l>
                <l>As adequate to recompence their toil;</l>
@@ -2909,7 +2909,7 @@ With conduct uniform, to bleſs mankind,</l>
                <l>Kind, affable and gen'rous in extreme,</l>
                <l>If in extreme benevolence can be,</l>
                <l>
-                  <pb n="63" facs="tcp:021826_0063_0FB5BF922CC53650"/>
+                  <pb n="63" facs="unknown:021826_0063_0FB5BF922CC53650"/>
 Learned and brave, tho' delicately form'd;</l>
                <l>Steady and calm, with ſenſe refined endued.</l>
             </lg>
@@ -2961,7 +2961,7 @@ Learned and brave, tho' delicately form'd;</l>
                <l>When mean, ungen'rous minds, whoſe callous hearts</l>
                <l>The ſoft emotions of humanity</l>
                <l>
-                  <pb n="64" facs="tcp:021826_0064_0FB5BF9720FE3A60"/>
+                  <pb n="64" facs="unknown:021826_0064_0FB5BF9720FE3A60"/>
 Could never feel, make impious attempts</l>
                <l>To rob their country of its faireſt rights,</l>
                <l>The ſparks of virtue to a flame are blown</l>
@@ -3006,7 +3006,7 @@ Could never feel, make impious attempts</l>
                <l>The wicked always hate her form; then moſt</l>
                <l>Their hatred burns, when they pretend moſt love;</l>
                <l>
-                  <pb n="65" facs="tcp:021826_0065_0FB5BF9ECE6B4CA8"/>
+                  <pb n="65" facs="unknown:021826_0065_0FB5BF9ECE6B4CA8"/>
 When oily words ſlide from their tongues, their hearts,</l>
                <l>Inflamed with meditated ire ſuppreſt,</l>
                <l>
@@ -3059,7 +3059,7 @@ When oily words ſlide from their tongues, their hearts,</l>
                <l>In juſt proportion to the ſway of each</l>
                <l>The happineſs of ſtates from virtue ſprings,</l>
                <l>
-                  <pb n="66" facs="tcp:021826_0066_0FB5BFA02588D748"/>
+                  <pb n="66" facs="unknown:021826_0066_0FB5BFA02588D748"/>
 And all their miſery from vice takes riſe.</l>
                <l>No vice without an evil at her heels;</l>
                <l>Each brat of hell ſpreads miſchief where ſhe comes</l>
@@ -3103,7 +3103,7 @@ And all their miſery from vice takes riſe.</l>
                <l>With crimſon; faction's furious breath, red-hot,</l>
                <l>Enkindles into flames kingdoms and ſtates.</l>
                <l>
-                  <pb n="67" facs="tcp:021826_0067_0FB5BFA1AB4B8AB8"/>
+                  <pb n="67" facs="unknown:021826_0067_0FB5BFA1AB4B8AB8"/>
 Behold an empire flouriſhing in peace,</l>
                <l>While virtue and Religion bear the ſway;</l>
                <l>But in their ſtead, ſhould vice ariſe, prevail,</l>
@@ -3148,7 +3148,7 @@ Behold an empire flouriſhing in peace,</l>
                <l>Of pangs deep felt from furious faction's rage,</l>
                <l>Fix peace and juſtice in the chair of ſtate.</l>
                <l>
-                  <pb n="68" facs="tcp:021826_0068_0FB5BFA4831181D8"/>
+                  <pb n="68" facs="unknown:021826_0068_0FB5BFA4831181D8"/>
 Convulſions ſhook her inmoſt frame, and chill'd</l>
                <l>Her blood; ſtagnate, inert and ſpiritleſs,</l>
                <l>As in deep pangs of expiration groan'd.</l>
@@ -3196,7 +3196,7 @@ Convulſions ſhook her inmoſt frame, and chill'd</l>
                <l>BOYLE, NEWTON, BOWDOIN too, immortal names</l>
                <l>Too ſplendid and too high for envy's tongue,</l>
                <l>
-                  <pb n="69" facs="tcp:021826_0069_0FB5BFADC321AE78"/>
+                  <pb n="69" facs="unknown:021826_0069_0FB5BFADC321AE78"/>
 (Which low things blaſts) to reach; virtue protects</l>
                <l>The man as well as ſtates, high raiſes both,</l>
                <l>The man how high!</l>
@@ -3243,7 +3243,7 @@ Convulſions ſhook her inmoſt frame, and chill'd</l>
                <l>From Eden's bow'r, upon his flow'ry bank:</l>
                <l>Then forward to where empires ſhine no more;</l>
                <l>
-                  <pb n="70" facs="tcp:021826_0070_0FB5BFAF20441220"/>
+                  <pb n="70" facs="unknown:021826_0070_0FB5BFAF20441220"/>
 All, all to vice and baſeneſs fall a prey,</l>
                <l>And vice will one day ſet the world on fire.</l>
             </lg>
@@ -3287,7 +3287,7 @@ All, all to vice and baſeneſs fall a prey,</l>
                <l>To ſmoke with blood, and ſhrieks to pierce the ſkies!</l>
                <l>From tender parents of their ſons bereft!</l>
                <l>
-                  <pb n="71" facs="tcp:021826_0071_0FB5BFB160F49988"/>
+                  <pb n="71" facs="unknown:021826_0071_0FB5BFB160F49988"/>
 Thy heights, O Charleſtown, diſmal to behold!</l>
                <l>As thick as hail-ſtones, when the leaden death</l>
                <l>Flew thro' the turbid air; deſtruction ſent</l>
@@ -3331,7 +3331,7 @@ Thy heights, O Charleſtown, diſmal to behold!</l>
                <l>See hoſtile bands thro' ſlaviſh fear advance,</l>
                <l>Puſh'd on by points of glitt'ring ſwords and ſpears,</l>
                <l>
-                  <pb n="72" facs="tcp:021826_0072_0FB5BFB445DD57C0"/>
+                  <pb n="72" facs="unknown:021826_0072_0FB5BFB445DD57C0"/>
 By terror only aw'd. Not thus are ye;</l>
                <l>By liberty inſpired, in freedom's cauſe,</l>
                <l>Your General ſtands on equal foot with you,</l>
@@ -3375,7 +3375,7 @@ By terror only aw'd. Not thus are ye;</l>
                <l>Preſaging death to all his tow'ring hopes.</l>
                <l>The dreadful hiſs of balls the ear aſſails,</l>
                <l>
-                  <pb n="73" facs="tcp:021826_0073_0FB5BFBADC836870"/>
+                  <pb n="73" facs="unknown:021826_0073_0FB5BFBADC836870"/>
 An horrid whiz; not more confounded noiſe</l>
                <l>That hiſs of ſerpents on the lake of hell.</l>
                <l>How ſolemn all! what anxious thoughts ariſe</l>
@@ -3421,7 +3421,7 @@ An horrid whiz; not more confounded noiſe</l>
                   <hi>All'</hi>s huſh'd.—As when a whirlwind's furious blaſt</l>
                <l>Sweeps o'er the land with diſmal roar, and ſpreads</l>
                <l>
-                  <pb n="74" facs="tcp:021826_0074_0FB5BFBBE09942B8"/>
+                  <pb n="74" facs="unknown:021826_0074_0FB5BFBBE09942B8"/>
 Deſtruction wide, tears up the trees, the fields</l>
                <l>Lays waſte, nor rocks its furious force withſtand,</l>
                <l>Houſes demoliſh'd, trees uptorn, and rocks</l>
@@ -3468,7 +3468,7 @@ Deſtruction wide, tears up the trees, the fields</l>
                <l>His country in diſtreſs, his feeling heart</l>
                <l>Urged him to ſenates, chief at council boards,</l>
                <l>
-                  <pb n="75" facs="tcp:021826_0075_0FB5BFBEF41D1C38"/>
+                  <pb n="75" facs="unknown:021826_0075_0FB5BFBEF41D1C38"/>
 Then to the field with dauntleſs bravery</l>
                <l>Stood firſt in office, nor in danger leſs;</l>
                <l>Tho' much ſolicited by all who loved,</l>
@@ -3517,7 +3517,7 @@ Then to the field with dauntleſs bravery</l>
                <l>Gaſp'd hard for breath; oft wounded, ſtill ſhe lives;</l>
                <l>Riſes ſuperior to her mighty foes;</l>
                <l>
-                  <pb n="76" facs="tcp:021826_0076_0FB5BFC1279E1ED0"/>
+                  <pb n="76" facs="unknown:021826_0076_0FB5BFC1279E1ED0"/>
 By thee, O WASHINGTON! reſcued from death,</l>
                <l>By <hi>thee</hi> thro' fields of blood to glory led!</l>
             </lg>
@@ -3562,7 +3562,7 @@ By thee, O WASHINGTON! reſcued from death,</l>
                <l>Made dreadful ſtrides, and threaten'd death to all.</l>
                <l>Where fly for ſhelter! flying cannot ſave,</l>
                <l>
-                  <pb n="77" facs="tcp:021826_0077_0FB5BFC2AC06EB78"/>
+                  <pb n="77" facs="unknown:021826_0077_0FB5BFC2AC06EB78"/>
 And who with courage bold with dare to tempt</l>
                <l>Th' unequal fight? 'twas then the great, the wiſe,</l>
                <l>The virtuous, magnanimouſly brave,</l>
@@ -3608,7 +3608,7 @@ And who with courage bold with dare to tempt</l>
                <l>Pure flames of love enwrapt his noble ſoul,</l>
                <l>Which led him on to great and noble deeds.</l>
                <l>
-                  <pb n="78" facs="tcp:021826_0078_0FB5BFC480DB0268"/>
+                  <pb n="78" facs="unknown:021826_0078_0FB5BFC480DB0268"/>
 'Tis virtue makes him ſhine among the ſtars,</l>
                <l>And brighter ſtill when ſtars ſhall ſhine no more,</l>
                <l>And as the man, ſo kingdoms ſhe exalts.</l>
@@ -3652,7 +3652,7 @@ And who with courage bold with dare to tempt</l>
                <l>And ſpreads her brilliant beauties to the ſun;</l>
                <l>And that her bright attire ſhines pleaſingly</l>
                <l>
-                  <pb n="79" facs="tcp:021826_0079_0FB5BFCAE002EA70"/>
+                  <pb n="79" facs="unknown:021826_0079_0FB5BFCAE002EA70"/>
 Upon our raviſh'd eyes, in mingled colours,</l>
                <l>In hues more various than the ſhining bows</l>
                <l>Could ever boaſt:—Theſe are Religion's gifts.</l>
@@ -3697,7 +3697,7 @@ Upon our raviſh'd eyes, in mingled colours,</l>
                <l>From light's refulgent blaze,</l>
             </lg>
             <lg>
-               <pb n="80" facs="tcp:021826_0080_0FB5BFCE0A3520F0"/>
+               <pb n="80" facs="unknown:021826_0080_0FB5BFCE0A3520F0"/>
                <l>Now, ye deſpiſers of Religion, go</l>
                <l>Join with your kindred of the nether world,</l>
                <l>In gloomy realms, where yet Religion's light</l>
@@ -3745,7 +3745,7 @@ Upon our raviſh'd eyes, in mingled colours,</l>
                <l>Smooths roughteſt tempers, <hi>all</hi> to peace inclines,</l>
                <l>The hungry wolves with harmleſs lambs to dwell,</l>
                <l>
-                  <pb n="81" facs="tcp:021826_0081_0FB5BFCF73EF1AE0"/>
+                  <pb n="81" facs="unknown:021826_0081_0FB5BFCF73EF1AE0"/>
 Fierce leopards to lie down with kids unharm'd,</l>
                <l>Young lions yoked with calves, a child to lead,</l>
                <l>Lions and bears, and leopards, wolves, and lambs,</l>
@@ -3797,7 +3797,7 @@ Fierce leopards to lie down with kids unharm'd,</l>
                <l>By heavenly fire refined, like Heaven itſelf,</l>
                <l>In purity and joy, fit dwelling place</l>
                <l>
-                  <pb n="82" facs="tcp:021826_0082_0FB5BFD26537FFF8"/>
+                  <pb n="82" facs="unknown:021826_0082_0FB5BFD26537FFF8"/>
 For gods, who tabernacle pleaſed with man:</l>
                <l>Briers no more thy beauteous face ſhall ſcar,</l>
                <l>Thy blooming boſom thorns no more deface:</l>
@@ -3841,7 +3841,7 @@ For gods, who tabernacle pleaſed with man:</l>
                <l>Their crowns, their laurels, and their wreaths, of ſame,</l>
                <l>And place at the fair feet, and loud proclaim:</l>
                <l>
-                  <pb n="83" facs="tcp:021826_0083_0FB5BFD97633F230"/>
+                  <pb n="83" facs="unknown:021826_0083_0FB5BFD97633F230"/>
                   <hi>The glory's all;</hi>—thy nurſing fathers kings,</l>
                <l>And queens thy nurſing mothers, to attend,</l>
                <l>To bow and waſh the duſt from thy fair feet.</l>
@@ -3893,7 +3893,7 @@ For gods, who tabernacle pleaſed with man:</l>
                <l>Love, temperance and juſtice, all concur</l>
                <l>To heighten and perpetuate perfect bliſs:</l>
                <l>
-                  <pb n="84" facs="tcp:021826_0084_0FB5BFDD801AEAA0"/>
+                  <pb n="84" facs="unknown:021826_0084_0FB5BFDD801AEAA0"/>
 Like Eden's garden, now the verd'rous earth</l>
                <l>Appears, a blooming Paradiſe of joy;</l>
                <l>Malice, revenge, envy and hatred, ceaſe;</l>
@@ -3938,7 +3938,7 @@ Like Eden's garden, now the verd'rous earth</l>
                <l>Now fits and ſhines the ſecond CATHARINE,</l>
                <l>Whoſe breaſt with more than manly pity ſwells!</l>
                <l>
-                  <pb n="85" facs="tcp:021826_0085_0FB5BFDFE9B63900"/>
+                  <pb n="85" facs="unknown:021826_0085_0FB5BFDFE9B63900"/>
 This great, this politic, pacific queen,</l>
                <l>No bounds will place to plans of gen'ral good.</l>
                <l>From her dominions cruel torture ſpurns,</l>
@@ -3981,7 +3981,7 @@ This great, this politic, pacific queen,</l>
             </lg>
          </div>
          <div type="half_title">
-            <pb facs="tcp:021826_0086_0FB5BFE16AEB8898"/>
+            <pb facs="unknown:021826_0086_0FB5BFE16AEB8898"/>
             <p>SOLILOQUY OF AN INFIDEL. BOOK IV.</p>
             <lg>
                <l>
@@ -4000,7 +4000,7 @@ This great, this politic, pacific queen,</l>
             <bibl>YOUNG.</bibl>
          </div>
          <div n="4" type="book">
-            <pb facs="tcp:021826_0087_0FB5BFE90FFAE1A0"/>
+            <pb facs="unknown:021826_0087_0FB5BFE90FFAE1A0"/>
             <argument>
                <head>THE ARGUMENT.</head>
                <p>
@@ -4008,7 +4008,7 @@ This great, this politic, pacific queen,</l>
                </p>
             </argument>
             <head>
-               <pb facs="tcp:021826_0088_0FB5BFFC1AD844C8"/>
+               <pb facs="unknown:021826_0088_0FB5BFFC1AD844C8"/>
 SOLILOQUY OF AN INFIDEL. BOOK IV.</head>
             <lg>
                <l>THE night is gone, the roſy morn appears,</l>
@@ -4040,7 +4040,7 @@ SOLILOQUY OF AN INFIDEL. BOOK IV.</head>
                <l>My reſolution firm abides, and ſhall,</l>
                <l>Deſires of fleſh forever to fulfil,</l>
                <l>
-                  <pb n="90" facs="tcp:021826_0089_0FB5BFEEE491F040"/>
+                  <pb n="90" facs="unknown:021826_0089_0FB5BFEEE491F040"/>
 And gratify my ſenſual appetites;</l>
                <l>To give looſe reins to my impetuous luſts,</l>
                <l>Full ſcope to all my paſſions and deſires,</l>
@@ -4092,7 +4092,7 @@ And gratify my ſenſual appetites;</l>
                <l>Delight me more than all the ways of God.</l>
                <l>For God and all his works alike diſpleaſe;</l>
                <l>
-                  <pb n="90" facs="tcp:021826_0090_0FB5BFF1CD69C2F8"/>
+                  <pb n="90" facs="unknown:021826_0090_0FB5BFF1CD69C2F8"/>
                   <hi>Himſelf,</hi> his <hi>works</hi> and <hi>ways,</hi> to me the ſame;</l>
                <l>
                   <hi>All hateful,</hi> yea, Religion I deſpiſe,</l>
@@ -4143,7 +4143,7 @@ And gratify my ſenſual appetites;</l>
                <l>Oh! what if wrath divine ſhould ſeize the wretch,</l>
                <l>Who, durſt deſpiſe his God, his counſels ſcorn?</l>
                <l>
-                  <pb n="92" facs="tcp:021826_0091_0FB5BFFB68644178"/>
+                  <pb n="92" facs="unknown:021826_0091_0FB5BFFB68644178"/>
 My merry bouts <hi>muſt</hi> end in ſad deſpair;</l>
                <l>Such direful thoughts <hi>again</hi> I bid depart,</l>
                <l>
@@ -4196,7 +4196,7 @@ My merry bouts <hi>muſt</hi> end in ſad deſpair;</l>
                </l>
                <l>She ſpake, then, hurl'd the lightning's forky blaze:</l>
                <l>
-                  <pb n="93" facs="tcp:021826_0092_0FB5BFFD21C3C4B0"/>
+                  <pb n="93" facs="unknown:021826_0092_0FB5BFFD21C3C4B0"/>
 Starting he <hi>trembled,</hi> groan'd, turn'd pale, expired;</l>
                <l>
                   <hi>Thus</hi> end the <hi>loved,</hi> the <hi>pleaſing</hi> ways of ſin.</l>
@@ -4242,7 +4242,7 @@ Starting he <hi>trembled,</hi> groan'd, turn'd pale, expired;</l>
                <l>Lively ideas in th' impaſſion'd heart</l>
                <l>Will raiſe, ſtrongly excite to harmleſs ſport;</l>
                <l>
-                  <pb n="94" facs="tcp:021826_0093_0FB5BFFEA08F57A8"/>
+                  <pb n="94" facs="unknown:021826_0093_0FB5BFFEA08F57A8"/>
 The mind, as yet to nobler thoughts unuſed,</l>
                <l>Gay ſcenes in proſpect riſe, pleaſing far as</l>
                <l>The infant ſoul can ſtretch her downy wings,</l>
@@ -4291,7 +4291,7 @@ The mind, as yet to nobler thoughts unuſed,</l>
                <l>The earth, planted the mountains, fix'd the hills,</l>
                <l>Groves, foreſts rear'd, and ſpread the dewy lawns,</l>
                <l>
-                  <pb n="95" facs="tcp:021826_0094_0FB5C0001F9E8738"/>
+                  <pb n="95" facs="unknown:021826_0094_0FB5C0001F9E8738"/>
 And gives meand'ring ſtreams to wind their way</l>
                <l>Thro' meads that ſmile, in nature's verdure cloath'd.</l>
                <l>How various, how delightful to behold!</l>
@@ -4334,7 +4334,7 @@ And gives meand'ring ſtreams to wind their way</l>
                <l>And blooming face of earth gives ſmiles to man,</l>
                <l>Maturing thro' the ſummer's heat thoſe fruits</l>
                <l>
-                  <pb n="96" facs="tcp:021826_0095_0FB5C0092310D650"/>
+                  <pb n="96" facs="unknown:021826_0095_0FB5C0092310D650"/>
 Which load the autumn, pour his boſom full,</l>
                <l>Rejoice his heart thro' winter's tedious cold.</l>
                <l>With <hi>potables</hi> of reliſh no leſs ſweet,</l>
@@ -4375,7 +4375,7 @@ Which load the autumn, pour his boſom full,</l>
                <l>From air and water moſt delicious fare.</l>
                <l>Pleaſure with profit vies, and exerciſe</l>
                <l>
-                  <pb n="97" facs="tcp:021826_0096_0FB5C00AA2CA6EE0"/>
+                  <pb n="97" facs="unknown:021826_0096_0FB5C00AA2CA6EE0"/>
 Gives health; to fowl and fiſh what pleaſures mix!</l>
                <l>When to the wood, or thro' the flow'ry lawn,</l>
                <l>Or o'er the pebbled beach, with haſty foot,</l>
@@ -4420,7 +4420,7 @@ Gives health; to fowl and fiſh what pleaſures mix!</l>
                </l>
             </lg>
             <lg>
-               <pb n="98" facs="tcp:021826_0097_0FB5C011CA97F1D0"/>
+               <pb n="98" facs="unknown:021826_0097_0FB5C011CA97F1D0"/>
                <l>But endleſs to recount the pleaſing <hi>views,</hi>
                </l>
                <l>The grateful <hi>ſongs,</hi> and fruits pleaſant to <hi>taſte,</hi>
@@ -4470,7 +4470,7 @@ Gives health; to fowl and fiſh what pleaſures mix!</l>
                <l>Gain high aſcendant o'er the ſtronger <hi>feign'd;</hi>
                </l>
                <l>
-                  <pb n="99" facs="tcp:021826_0098_0FB5C01585FBB530"/>
+                  <pb n="99" facs="unknown:021826_0098_0FB5C01585FBB530"/>
 And lay his boaſted wiſdom low in duſt;</l>
                <l>Beauty in bloom, <hi>ſtronger than Sampſon is!</hi>
                </l>
@@ -4517,7 +4517,7 @@ And lay his boaſted wiſdom low in duſt;</l>
                <l>While <hi>this right hand</hi> with force can wield the pen,</l>
                <l>Thoſe adamantine, moſt unfeeling hearts,</l>
                <l>
-                  <pb n="100" facs="tcp:021826_0099_0FB5C018CD7459E8"/>
+                  <pb n="100" facs="unknown:021826_0099_0FB5C018CD7459E8"/>
 Thoſe hearts of ſtone, which batter points of ſwords,</l>
                <l>The pen with keener edge ſhall pierce and pain.</l>
                <l>The beauteous part of the creation's doom'd</l>
@@ -4558,7 +4558,7 @@ Thoſe hearts of ſtone, which batter points of ſwords,</l>
                <l>But for the ſilken tie of mutual love</l>
                <l>Between both ſexes; reciprocally bleſs'd,</l>
                <l>
-                  <pb n="101" facs="tcp:021826_0100_0FB5C019A3836288"/>
+                  <pb n="101" facs="unknown:021826_0100_0FB5C019A3836288"/>
 When love, and honour, and reſpect, as meet,</l>
                <l>Is given and return'd, ſweet interchange!</l>
             </lg>
@@ -4604,7 +4604,7 @@ When love, and honour, and reſpect, as meet,</l>
                <l>And let the pencil ſketch the landſcape wide;</l>
                <l>Paint the Caſtalian fount, riſing from foot,</l>
                <l>
-                  <pb n="102" facs="tcp:021826_0101_0FB5C01C022E0390"/>
+                  <pb n="102" facs="unknown:021826_0101_0FB5C01C022E0390"/>
 Meand'ring thence thro' many a flow'ry mead,</l>
                <l>Blooming with violet and jeſſamin.</l>
                <l>On <hi>this</hi> ſide paint a row of lofty elms,</l>
@@ -4643,7 +4643,7 @@ Meand'ring thence thro' many a flow'ry mead,</l>
                <l>With cherry, plumb and peach, apple and pear,</l>
                <l>Bend branches, low, tempting the hand to pluck,</l>
                <l>
-                  <pb n="103" facs="tcp:021826_00102_0FB5C01D6161BB08"/>
+                  <pb n="103" facs="unknown:021826_00102_0FB5C01D6161BB08"/>
 Along the ground let all the charming race</l>
                <l>Of berries creep;—and then this motto place:</l>
                <l>" Fair works of nature are the works of God,</l>
@@ -4673,13 +4673,13 @@ Along the ground let all the charming race</l>
                <l>" No <hi>pleaſure</hi> in the ways of <hi>ſin</hi> is found;</l>
                <l>" All <hi>other</hi> ways are open to <hi>delight</hi>
                   <note n="‖" place="bottom">The great Parent of the univerſe, by producing ſuch a variety of creatures for the uſe of man, on earth, in air and waters, and by varie<g ref="char:EOLhyphen"/>gating the face of the earth with hills, vales plains, rivers, ponds, woods, &amp;c. and by clothing hills and meads with verdurous bloom, intermixing flowers and fruits of infinite variety, ſeems to employ his wiſdom for the gratification of all our ſenſes. And to view all theſe, by the light of Religion, as the productions of the author of our beings, cannot fail to excite the moſt pleaſing ideas of the eternal God, and fill the mind with love and gratitude.—And the contemplative mind will not only be filled with the moſt pleaſing, but elevated conceptions of this moſt beneficent of all beings, who is the author of all that is fair, ſublime and good.—And the contemplation of theſe beauties will lead the mind to the more great and noble things that he hath prepared for the ſatisfaction, comfort and eternal felicity, of our better part.—If ſo much is done for the pleaſure of the animal nature, how much more may we rationally conclude that this all-wiſe and beneficent Being will do for that ſpiritual and immortal part he has given us?—With theſe conſiderations I truſt none will be diſpleaſed, or think that the main deſign has not been attended to, when I have ſo frequently introduced
-<pb n="104" facs="tcp:021826_00103_0FB5C02011924E68"/>
+<pb n="104" facs="unknown:021826_00103_0FB5C02011924E68"/>
 the charming ſcenes of nature, together with the melody of hills, groves and vales, which ſhould teach all rational beings to join the general cho<g ref="char:EOLhyphen"/>rus, and hymn the Creator's praiſe. For among the Beauties of Religion this is not the leaſt, that it teaches us how to improve the world, and all things in it, to the glory of God, and leads us as it were by the hand through his beauteous works of creation, up to him who is the perfec<g ref="char:EOLhyphen"/>tion of beauty and excellency."</note>
                </l>
             </lg>
          </div>
          <div type="half_title">
-            <pb facs="tcp:021826_0104_0FB5C024C07DEE48"/>
+            <pb facs="unknown:021826_0104_0FB5C024C07DEE48"/>
             <p>SOLILOQUY OF A BELIEVER. BOOK V.</p>
             <lg>
                <l>
@@ -4698,7 +4698,7 @@ the charming ſcenes of nature, together with the melody of hills, groves and va
             <bibl>YOUNG.</bibl>
          </div>
          <div n="5" type="book">
-            <pb facs="tcp:021826_0105_0FB5C02878AE5488"/>
+            <pb facs="unknown:021826_0105_0FB5C02878AE5488"/>
             <argument>
                <head>THE ARGUMENT.</head>
                <p>
@@ -4706,7 +4706,7 @@ the charming ſcenes of nature, together with the melody of hills, groves and va
                </p>
             </argument>
             <head>
-               <pb facs="tcp:021826_0106_0FB5C029A7DACA10"/>
+               <pb facs="unknown:021826_0106_0FB5C029A7DACA10"/>
 SOLILOQUY OF A BELIEVER. BOOK V.</head>
             <lg>
                <l>AS when a traveller, wand'ring far from home,</l>
@@ -4737,7 +4737,7 @@ SOLILOQUY OF A BELIEVER. BOOK V.</head>
                <l>Then ſoon a ray divine beams bright around,</l>
                <l>Illumed, ſhe ſees the way to light and life</l>
                <l>
-                  <pb n="108" facs="tcp:021826_0107_0FB5C02E0BC83C40"/>
+                  <pb n="108" facs="unknown:021826_0107_0FB5C02E0BC83C40"/>
 Lies far above the common road of men;</l>
                <l>She preſſes forward for the glorious prize</l>
                <l>With joy unſpeakable, nor thinks to ſtop,</l>
@@ -4779,7 +4779,7 @@ Lies far above the common road of men;</l>
                <l>With one perpetual ſymphony and joy,</l>
                <l>Unceaſing praiſe.—</l>
                <l>
-                  <pb n="109" facs="tcp:021826_0108_0FB5C02FC80D0518"/>
+                  <pb n="109" facs="unknown:021826_0108_0FB5C02FC80D0518"/>
 With rapturous delight my ſoul was fill'd;</l>
                <l>And utter'd forth her joys in words like <hi>theſe:</hi>
                </l>
@@ -4828,7 +4828,7 @@ With rapturous delight my ſoul was fill'd;</l>
                </l>
                <l>God is all in all, and ſeen without a veil;</l>
                <l>
-                  <pb n="110" facs="tcp:021826_0109_0FB5C03464547210"/>
+                  <pb n="110" facs="unknown:021826_0109_0FB5C03464547210"/>
 And in his ſweet embrace, and in his ſmiles,</l>
                <l>Rejoice forever, ſing, exult and praiſe.</l>
                <l>This pleaſing thought indulged is Heaven on earth.</l>
@@ -4878,7 +4878,7 @@ And in his ſweet embrace, and in his ſmiles,</l>
                      <desc>••</desc>
                   </gap>:</l>
                <l>
-                  <pb n="111" facs="tcp:021826_0110_0FB5C036C15DAF88"/>
+                  <pb n="111" facs="unknown:021826_0110_0FB5C036C15DAF88"/>
 Perhaps a thouſand attributes and more,</l>
                <l>Perfections without end, unknown to man,</l>
                <l>To angels unreveal'd perhaps as yet,</l>
@@ -4925,7 +4925,7 @@ Perhaps a thouſand attributes and more,</l>
                </l>
                <l>Prone to ſhew mercy, mercy ſhew; and raiſe</l>
                <l>
-                  <pb n="0112" facs="tcp:021826_0111_0FB5C038D6B23DE0"/>
+                  <pb n="0112" facs="unknown:021826_0111_0FB5C038D6B23DE0"/>
 Me from this depth of guilt, this miry filth;</l>
                <l>O waſh me in that fount divine, <hi>that blood</hi>
                </l>
@@ -4972,7 +4972,7 @@ Me from this depth of guilt, this miry filth;</l>
                   <hi>Forgiven? more,</hi> reſtored to favour; <hi>more ſtill,</hi>
                </l>
                <l>
-                  <pb n="113" facs="tcp:021826_0112_0FB5C040004A47A0"/>
+                  <pb n="113" facs="unknown:021826_0112_0FB5C040004A47A0"/>
 To <hi>favour</hi> and to <hi>love</hi> of the Supreme.</l>
                <l>The double bleſſing more than fills my ſoul;</l>
                <l>It overwhelms, makes ocean all around;</l>
@@ -5026,7 +5026,7 @@ To <hi>favour</hi> and to <hi>love</hi> of the Supreme.</l>
                <l>And why deluſion? who can be deceived,</l>
                <l>Who feels a ſoul within? a ſoul which acts</l>
                <l>
-                  <pb n="114" facs="tcp:021826_0113_0FB5C0416B4E9410"/>
+                  <pb n="114" facs="unknown:021826_0113_0FB5C0416B4E9410"/>
 Herſelf; while conſcious of her high deſcent,</l>
                <l>She longs and labours to embrace her <hi>Sire;</hi>
                </l>
@@ -5070,7 +5070,7 @@ Herſelf; while conſcious of her high deſcent,</l>
                <l>O glorious prize! obtain'd as ſoon as ſought;</l>
                <l>In part obtain'd, <hi>ſure</hi> earneſt of the whole;</l>
                <l>
-                  <pb n="115" facs="tcp:021826_0114_0FB5C42E13E8750"/>
+                  <pb n="115" facs="unknown:021826_0114_0FB5C42E13E8750"/>
 I ſee, I feel, I taſte unſpeakables!</l>
                <l>From Heaven <hi>ſuch</hi> joy, to Heaven <hi>again</hi> it leads.</l>
             </lg>
@@ -5114,7 +5114,7 @@ I ſee, I feel, I taſte unſpeakables!</l>
                <l>From diſappointments, in purſuits like theſe,</l>
                <l>Turn ſhort; into <hi>thyſelf</hi> deſcend, and ſeek</l>
                <l>
-                  <pb n="116" facs="tcp:021826_0115_0FB5C04949233BC0"/>
+                  <pb n="116" facs="unknown:021826_0115_0FB5C04949233BC0"/>
 For pleaſure <hi>there,</hi> and in thy God, thy life;</l>
                <l>The ſource and ſubject <hi>theſe</hi> of all delight;</l>
                <l>Fruition <hi>here</hi> increaſes joys, not kills;</l>
@@ -5159,7 +5159,7 @@ For pleaſure <hi>there,</hi> and in thy God, thy life;</l>
                <l>Such pleaſure with Religion <hi>always</hi> joins.</l>
                <l>Her worſhip this, what then her laws obey'd?</l>
                <l>
-                  <pb n="117" facs="tcp:021826_0116_0FB5C04CB695C528"/>
+                  <pb n="117" facs="unknown:021826_0116_0FB5C04CB695C528"/>
                   <hi>One</hi> pleaſing act of virtue to the ſoul</l>
                <l>More joy affords, than all the pleaſures vice</l>
                <l>Can boaſt. The ſecret ſeeds of conſtant, pure</l>
@@ -5209,7 +5209,7 @@ For pleaſure <hi>there,</hi> and in thy God, thy life;</l>
                <l>With dazzling glitter ſhine their tinſel charms;</l>
                <l>But ſtripp'd of them, and in their native ſhape,</l>
                <l>
-                  <pb n="118" facs="tcp:021826_0117_0FB5C04E297C8B60"/>
+                  <pb n="118" facs="unknown:021826_0117_0FB5C04E297C8B60"/>
 Lank, black and meagre, diſmal to behold!</l>
                <l>With griſly horrors cloth'd, and dreary hiſs.</l>
             </lg>
@@ -5267,7 +5267,7 @@ Lank, black and meagre, diſmal to behold!</l>
                <l>Give <hi>laſting</hi> joys to that which <hi>never fades?</hi>
                </l>
                <l>
-                  <pb n="119" facs="tcp:021826_0118_0FB5C0506172ED60"/>
+                  <pb n="119" facs="unknown:021826_0118_0FB5C0506172ED60"/>
 Now on <hi>Religion</hi> look:—aſk you (with ſmiles</l>
                <l>That ſpeak your ſcorn) what joys from her? aſk then</l>
                <l>What is't to be religious? 'tis to <hi>feel</hi>
@@ -5324,7 +5324,7 @@ Now on <hi>Religion</hi> look:—aſk you (with ſmiles</l>
                <l>" As in thy ſanctuary I have ſeen!"</l>
             </lg>
             <lg>
-               <pb n="120" facs="tcp:021826_0119_0FB5C0535C60CD10"/>
+               <pb n="120" facs="unknown:021826_0119_0FB5C0535C60CD10"/>
                <l>Say, ye who know, with princes who have ſat,</l>
                <l>In pompous elegance and ſplendid hues,</l>
                <l>Or prince-like boards with lordly viands crown'd,</l>
@@ -5364,7 +5364,7 @@ Now on <hi>Religion</hi> look:—aſk you (with ſmiles</l>
                      <p>The good, &amp;c Many perſons urge the diverſity of opinions among Chriſtians, as an objection to Chriſtianity itſelf; and alledge the many different ſects of worſhippers, and modes of worſhip, as an argu<g ref="char:EOLhyphen"/>ment againſt Religion; as though every ſect and mode implied a differ<g ref="char:EOLhyphen"/>ent religion: and becauſe there is in reality but <hi>one,</hi> the pretend it is impoſſible to find the right with any certainty, among ſuch a multi<g ref="char:EOLhyphen"/>tude. This objection vaniſhes, by conſidering Religion not as conſiſting in particular <hi>modes</hi> and <hi>forms,</hi> though uſeful appendages, but a prin<g ref="char:EOLhyphen"/>ciple of love and goodneſs in the ſoul. Herein all true worſhippers agree, of whatever ſect or party, how much ſoever they may differ as to <hi>creeds</hi> and <hi>forms.</hi> And thoſe are Chriſtians indeed, and truly religious, who have ſuch a love to God, as influences them to practiſe univerſal godlineſs and honeſty, of whatever denomination. Religion is no party thing, any further than ſhe always dwells with the good. A bad man of any profeſſion ſhould not be accounted religious: nor ought Reli<g ref="char:EOLhyphen"/>gion to be blamed becauſe there are hypocritical profeſſors among every ſect; for they belong to her foes.</p>
                   </note>The good are my companions through all worlds;</l>
                <l>
-                  <pb n="121" facs="tcp:021826_0120_0FB5C05CA87CB730"/>
+                  <pb n="121" facs="unknown:021826_0120_0FB5C05CA87CB730"/>
 Now my abode is in their hearts forever.</l>
                <l>Empreſs of <hi>living temples</hi> now I reign;</l>
                <l>My court illuſtrious perſonages form;</l>
@@ -5400,7 +5400,7 @@ Now my abode is in their hearts forever.</l>
                <l>Breathe in one gale, as when thou, Religion,</l>
                <l>With thy heav'nly gales, breath'ſt on the ſoul</l>
                <l>
-                  <pb n="122" facs="tcp:021826_0121_0FB5C05DE8A04C90"/>
+                  <pb n="122" facs="unknown:021826_0121_0FB5C05DE8A04C90"/>
 With the <hi>ſtill ſofter</hi> airs, which fan the ſparks</l>
                <l>Of love into a flame; whence odours riſe,</l>
                <l>Whoſe ſweets not only earth but Heaven perfume,</l>
@@ -5445,7 +5445,7 @@ With the <hi>ſtill ſofter</hi> airs, which fan the ſparks</l>
                <l>For whom I've ventured forth to ſtand the rage</l>
                <l>Of <hi>folly's</hi> num'rous race, Religion's foes.</l>
                <l>
-                  <pb n="123" facs="tcp:021826_0122_0FB5C05FC5EFF560"/>
+                  <pb n="123" facs="unknown:021826_0122_0FB5C05FC5EFF560"/>
 Receive with kindeſs what I proffer you,</l>
                <l>And more than gold, or pearls, or precious ſtones,</l>
                <l>Than rubies, gems, or diamonds glitt'ring bright,</l>
@@ -5489,7 +5489,7 @@ Receive with kindeſs what I proffer you,</l>
                <l>Withhold not praiſe from him <hi>all</hi> Heaven adores.</l>
             </lg>
             <lg>
-               <pb n="124" facs="tcp:021826_0123_0FB5C0625FA93598"/>
+               <pb n="124" facs="unknown:021826_0123_0FB5C0625FA93598"/>
                <l>In youth remember death; inſidious death</l>
                <l>May blaſt your beauty, and your ſchemes deſtroy;</l>
                <l>Your ſun ere noon may ſit in darkeſt ſhades;</l>
@@ -5521,7 +5521,7 @@ Receive with kindeſs what I proffer you,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:021826_0124_0FB5C067C035FC50"/>
+            <pb facs="unknown:021826_0124_0FB5C067C035FC50"/>
             <head>The CHOICE.</head>
             <lg>
                <l>WOULD Heaven's high Sov'reign condeſcend</l>
@@ -5555,7 +5555,7 @@ Receive with kindeſs what I proffer you,</l>
                <l>Whoſe beams, reflected from that glaſs,</l>
                <l>Make double morn my life compaſs;</l>
                <l>
-                  <pb n="126" facs="tcp:021826_0125_0FB5C06CB7DC3778"/>
+                  <pb n="126" facs="unknown:021826_0125_0FB5C06CB7DC3778"/>
 While pleaſure-boats, with ſilken ſails,</l>
                <l>And ſtreamers gay, delight the vales,</l>
             </lg>
@@ -5600,7 +5600,7 @@ While pleaſure-boats, with ſilken ſails,</l>
                <l>Their plumes of ſcarlet, gold and green,</l>
                <l>A lively hue as e'er was ſeen;</l>
                <l>
-                  <pb n="127" facs="tcp:021826_0126_0FB5C06DA2B7BDB8"/>
+                  <pb n="127" facs="unknown:021826_0126_0FB5C06DA2B7BDB8"/>
 Theſe o'er my flow'rs ſhould rove at pleaſure,</l>
                <l>Partake the joy, not ſpoil the treaſure;</l>
                <l>But with their little tube-like bill</l>
@@ -5644,7 +5644,7 @@ Theſe o'er my flow'rs ſhould rove at pleaſure,</l>
                <l>I'd have a little grove faſt by,</l>
                <l>There to repair in milder ſky:</l>
                <l>
-                  <pb n="128" facs="tcp:021826_0127_0FB5C06F27191438"/>
+                  <pb n="128" facs="unknown:021826_0127_0FB5C06F27191438"/>
 My morn and ev'ning walk ſhould be,</l>
                <l>To view the birds perch'd on the tree;</l>
                <l>Their ſhining gloſſy plumes would fill</l>
@@ -5692,7 +5692,7 @@ My morn and ev'ning walk ſhould be,</l>
                <l>To crown the whole, and give a reliſh</l>
                <l>To all the pleaſures life embelliſh,</l>
                <l>
-                  <pb n="129" facs="tcp:021826_0128_0FB5C745F280B30"/>
+                  <pb n="129" facs="unknown:021826_0128_0FB5C745F280B30"/>
 On holy days I would not loſe</l>
                <l>The pleaſure which from worſhip flows;</l>
                <l>And near my houſe ſhould be the ſeat</l>
